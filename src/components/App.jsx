@@ -19,7 +19,7 @@ function Card(props) {
 function App() {
   return (
     <div>
-      <h1 className="heading">My Contacts</h1>
+      <h1 className="heading">My Hollywood Contacts</h1>
       <Card
         name={Contact[0].name}
         email={Contact[0].email}
